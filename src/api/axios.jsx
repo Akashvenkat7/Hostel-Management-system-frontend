@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://hostel-management-system-3zg0.onrender.com", //backend url
+  baseURL: "https://hostel-management-backend-g35l.onrender.com/api/auth", //backend url
 });
 
 //Add token to request headers

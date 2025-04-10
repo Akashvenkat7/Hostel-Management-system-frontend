@@ -158,11 +158,11 @@ export default function LoginPage() {
                   }
                 />
               </form>
-              {/* <p className="text-sm opacity-50 mt-4">Click to copy admin</p> */}
+              <p className="text-sm opacity-50 mt-4">Click to copy admin</p>
               <div className="flex items-center justify-between ">
                 
               <div className=" text-sm">
-                {/* <span className="text-gray-700">Email:
+                <span className="text-gray-700">Email:
                 <span
                   className="text-indigo-600 cursor-pointer hover:text-indigo-700"
                   onClick={() => {
@@ -172,10 +172,10 @@ export default function LoginPage() {
                 >
                   azardevacc@gmail.com
                 </span>
-                </span> */}
+                </span>
               </div>
               <div className="mt-1 text-sm">
-                {/* <span className="text-gray-700">Pass:
+                <span className="text-gray-700">Pass:
                 <span
                   className="text-indigo-600 cursor-pointer hover:text-indigo-700"
                   onClick={() => {
@@ -185,7 +185,7 @@ export default function LoginPage() {
                 >
                   azardev@123
                 </span>
-                </span> */}
+                </span>
               </div>
              
               </div>
