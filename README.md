@@ -170,4 +170,5 @@ and many more...
 
 For any inquiries or support, please contact:
 
-- **Email**: mnazar87540@gmail.com
+- **Email**: akashvenkat4454@gmail.com
+  
